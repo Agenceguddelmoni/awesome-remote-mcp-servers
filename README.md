@@ -241,8 +241,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [formcarry](https://formcarry.com) `https://mcp.formcarry.com/mcp`
   [![formcarry MCP connector](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry/badges/score.svg)](https://glama.ai/mcp/connectors/com.formcarry.mcp/formcarry)
   🔐 - Set up form handling for your site (email alerts, auto replies, webhooks) and query submissions.
-- [Plumail](https://plumail.fr/en) `https://plumail.fr/api/mcp`
-  [![Plumail MCP connector](https://glama.ai/mcp/connectors/fr.plumail/plumail/badges/score.svg)](https://glama.ai/mcp/connectors/fr.plumail/plumail)
+- [Mailcheer](https://mailcheer.com/en) `https://mailcheer.com/api/mcp`
+  [![Mailcheer MCP connector](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer)
   🔑 - Send transactional email, manage subscribers, and draft, test and schedule newsletter campaigns.
 - [Resend](https://resend.com) `https://mcp.resend.com/mcp`
   🔐 - Send transactional email and manage sending domains.
