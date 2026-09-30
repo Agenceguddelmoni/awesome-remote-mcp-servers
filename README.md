@@ -1101,7 +1101,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - SEO audit of every page: a ranked fix list, a fix prompt for your framework, and a re-check once the fix is live.
 - [Mailcoach](https://mailcoach.app) `https://mcp.mailcoach.app`
   🔐 - Read subscribers, campaigns, stats and email logs; create drafts and templates, and send test emails.
-- [Mailcheer](https://mailcheer.com) `https://plumail.fr/api/mcp`
+- [Mailcheer](https://mailcheer.com) `https://mailcheer.com/api/mcp`
   [![Mailcheer MCP connector](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer/badges/score.svg)](https://glama.ai/mcp/connectors/com.mailcheer/mailcheer)
   🔑 - Send transactional emails and manage subscribers, segments and campaigns in a Mailcheer email workspace.
 - [Mencoro](https://mencoro.com) `https://api.mencoro.com/mcp`
